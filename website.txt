@@ -1,2 +1,6 @@
 ADD NAVBAR
+<<<<<<< HEAD
 ADD LOGIN
+=======
+ADD LOGOUT
+>>>>>>> 6a3c417 (add logout)
